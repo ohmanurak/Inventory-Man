@@ -265,7 +265,7 @@ void menu()
 
 
 /**
-*	display stock from memory
+*	display stock from memoryy
 */
 void currentStock() {
 	system ("cls");
